@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Blog App
+
+I am creating a blog app / site. I have not decided if I am going to actively use this one, or just create one for show? Time will tell. 
+
+Using MERN stack. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
